@@ -1,6 +1,12 @@
-<h1 align="center">Hello 👋, I'm Sergiu</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+my+Github+account!;I'm+a+Full++Stack+Web+Developer;I'm+a+Cybersecurity+student)](https://git.io/typing-svg)
+<h1 align="center">Hello 👋, I'm Sergiu</h1> 
+
+<a href="https://www.linkedin.com/in/sergiuvdr/">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+my+Github+account!;I'm+a+Full++Stack+Web+Developer;I'm+a+Cybersecurity+student)](https://git.io/typing-svg)
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidrez&show_icons=true&locale=en&count_private=true" alt="vidrez" /></p>
 <h2>
