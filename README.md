@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/36509217/179720948-94d4eaa4-dd81-42dc-87e3-e77a4ea0c15c.mp4
+
 <h1 align="center">Hello 👋, I'm Sergiu</h1> 
 
 <a href="https://www.linkedin.com/in/sergiuvdr/">
