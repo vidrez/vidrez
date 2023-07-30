@@ -26,9 +26,3 @@ https://user-images.githubusercontent.com/36509217/179720948-94d4eaa4-dd81-42dc-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-<h2>
- :pushpin: Pinned project 
-</h2>
-
-[![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=vidrez&repo=Ethical-Hacking-Report-Log4j)](https://github.com/vidrez/Ethical-Hacking-Report-Log4j)
