@@ -1,5 +1,3 @@
-https://user-images.githubusercontent.com/36509217/179720948-94d4eaa4-dd81-42dc-87e3-e77a4ea0c15c.mp4
-
 <h1 align="center">Hello 👋, I'm Sergiu</h1> 
 
 <a href="https://www.linkedin.com/in/sergiuvdr/">
@@ -10,8 +8,6 @@ https://user-images.githubusercontent.com/36509217/179720948-94d4eaa4-dd81-42dc-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Welcome+to+my+Github+account!;I'm+a+Full++Stack+Web+Developer;I'm+a+Cybersecurity+student)](https://git.io/typing-svg)
 
-<p>&nbsp;<img src="https://tryhackme-badges.s3.amazonaws.com/SergiuVidreanu.png" alt="TryHackMe"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidrez&show_icons=true&locale=en&count_private=true" alt="vidrez" /></p>
 <h2>
  :hammer: Some of my skills 
 </h2>
@@ -27,3 +23,7 @@ https://user-images.githubusercontent.com/36509217/179720948-94d4eaa4-dd81-42dc-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%20000000.svg?style=for-the-badge&logo=django&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-e67d32?style=for-the-badge&logo=splunk)
+![Burp](https://img.shields.io/badge/Burp-gray?style=for-the-badge&logo=burpsuite)
+![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker)
